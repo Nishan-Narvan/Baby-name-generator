@@ -1,10 +1,11 @@
 # Langchain
 
-Requirements:
+Install Dependency Requirements:
 -streamlit
 -langchain-google-genai
 -python-dotenv
 -langchain 
+Paste all these without"-" in a requirements.text file
 #install using pip install -r requirements.txt
 
 
